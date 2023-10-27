@@ -3,9 +3,9 @@ import numpy as np
 
 # load data
 
-wav = np.loadtxt('spektri/val.dat', comments='#')
+wav = np.loadtxt('/home/project0/Documents/PSUF/spektri/val.dat', comments='#')
 
-DATA = np.load('DATA.npy')
+DATA = np.load('/home/project0/Documents/PSUF/DATA.npy')
 
 def PCA(DATA, n):
 
