@@ -1,7 +1,20 @@
+# same as PCA_compare but for different kernels of PCA
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn.decomposition import KernelPCA
 
-DATA = np.load('PCA_reduced_5.npy')
+
+
+DATA_raw = np.load('DATA.npy')
+
+transformer = KernelPCA(n_components=3, kernel='cosine', degree=5)
+
+# linear = no kernel ...?
+# {‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘cosine’, ‘precomputed’}
+
+DATA = transformer.fit_transform(DATA_raw)
+
+
 
 # add scatter data: use data_dict to find groups
 data_dict = {}
@@ -29,7 +42,8 @@ labels = ['MAB', 'BIN', 'TRI', 'HFR', 'HAE', 'CMP', 'DIB']
 
 # make 3 corner plot for P1, P2, P3
 
-fig, ax = plt.subplots(2, 2, sharex=True, sharey=True)
+fig, ax = plt.subplots(2, 2, sharex='col', sharey='row')
+plt.subplots_adjust(wspace=0, hspace=0, top=0.98, right=0.98)
 
 axes = [ax[1, 0], ax[0, 0], ax[1, 1]]
 
