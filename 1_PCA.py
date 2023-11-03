@@ -22,7 +22,11 @@ def PCA(DATA, n):
 
 	energ = np.sum(sigma_square)
 
-	eff = np.sum(sigma_square[:n])/energ
+	# vrne array ucinkovtiosti
+	eff = [np.sum(sigma_square[:i])/energ for i in range(10)]
+	
+	# vrne le vrednost	
+	#eff = np.sum(sigma_square[:n])/energ
 
 	# matrix from eigenvector (lines of Vh)
 	W = Vh[:n].transpose()
@@ -38,8 +42,12 @@ N = 5
 # matrix for dim reduciton
 W, eff = PCA(DATA_test, N)
 
-print(eff)
-
+plt.plot(eff, 'x')
+plt.xlabel('N')
+plt.ylabel('g')
+plt.tick_params(axis='both', which='both', direction='in', right=True, left=True, bottom=True, top=True, labelleft=True, labelbottom=True)
+plt.show()
+'''
 # dim reduction
 DATA_reduced = np.matmul(DATA_test, W)
 
@@ -63,3 +71,4 @@ g = sns.pairplot(
 #g.map_diag(sns.histplot, bins=30, color=".3")
 g.map_lower(sns.kdeplot, levels=4, color=".2")
 plt.show()
+'''

@@ -1,0 +1,398 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.11.2)  3 NOV 2023 20:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**porocilo.tex
+(./porocilo.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen145
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks17
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks18
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count190
+\multirow@dima=\skip53
+\bigstrutjot=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count191
+\calc@Bcount=\count192
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count193
+\calc@Cskip=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count194
+\l_MT_multwidth_dim=\dimen157
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen158
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen159
+\l_MT_above_intertext_sep=\dimen160
+\l_MT_below_intertext_sep=\dimen161
+\l_MT_above_shortintertext_sep=\dimen162
+\l_MT_below_shortintertext_sep=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box47
+)
+(./porocilo.aux
+
+LaTeX Warning: Label `10' multiply defined.
+
+
+LaTeX Warning: Label `10' multiply defined.
+
+)
+\openout1 = `porocilo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=42.67912pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen164
+\scratchbox=\box48
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen165
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<spektri_vizualno.png, id=17, 420.6114pt x 463.2507pt>
+File: spektri_vizualno.png Graphic file (type png)
+<use spektri_vizualno.png>
+Package pdftex.def Info: spektri_vizualno.png  used on input line 65.
+(pdftex.def)             Requested size: 378.54677pt x 416.92177pt.
+ [2 <./spektri_vizualno.png>]
+<corner_plot.png, id=23, 833.9958pt x 650.43pt>
+File: corner_plot.png Graphic file (type png)
+<use corner_plot.png>
+Package pdftex.def Info: corner_plot.png  used on input line 80.
+(pdftex.def)             Requested size: 500.40135pt x 390.261pt.
+ [3
+
+ <./corner_plot.png>]
+<energija.png, id=28, 383.7537pt x 291.2481pt>
+File: energija.png Graphic file (type png)
+<use energija.png>
+Package pdftex.def Info: energija.png  used on input line 97.
+(pdftex.def)             Requested size: 249.43694pt x 189.309pt.
+<PCA_klasifikacija.png, id=29, 492.1587pt x 367.1316pt>
+File: PCA_klasifikacija.png Graphic file (type png)
+<use PCA_klasifikacija.png>
+Package pdftex.def Info: PCA_klasifikacija.png  used on input line 106.
+(pdftex.def)             Requested size: 344.50874pt x 256.99036pt.
+ [4
+
+ <./energija.png> <./PCA_klasifikacija.png>]
+<PCA_korelacija.png, id=35, 462.528pt x 346.896pt>
+File: PCA_korelacija.png Graphic file (type png)
+<use PCA_korelacija.png>
+Package pdftex.def Info: PCA_korelacija.png  used on input line 119.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+<PCA_klasifikacija_cosine.png, id=36, 521.0667pt x 390.9807pt>
+File: PCA_klasifikacija_cosine.png Graphic file (type png)
+<use PCA_klasifikacija_cosine.png>
+Package pdftex.def Info: PCA_klasifikacija_cosine.png  used on input line 130.
+(pdftex.def)             Requested size: 364.74419pt x 273.68462pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<PCA_klasifikacija_poly5.png, id=37, 462.528pt x 346.896pt>
+File: PCA_klasifikacija_poly5.png Graphic file (type png)
+<use PCA_klasifikacija_poly5.png>
+Package pdftex.def Info: PCA_klasifikacija_poly5.png  used on input line 137.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5
+
+ <./PCA_korelacija.png>] [6 <./PCA_klasifikacija_cosine.png> <./PCA_klasifikaci
+ja_poly5.png>]
+<tSNE_klasifikacija.png, id=47, 614.295pt x 622.2447pt>
+File: tSNE_klasifikacija.png Graphic file (type png)
+<use tSNE_klasifikacija.png>
+Package pdftex.def Info: tSNE_klasifikacija.png  used on input line 150.
+(pdftex.def)             Requested size: 430.00356pt x 435.56833pt.
+ [7
+
+ <./tSNE_klasifikacija.png>]
+<tSNE_corr.png, id=53, 477.7047pt x 789.9111pt>
+File: tSNE_corr.png Graphic file (type png)
+<use tSNE_corr.png>
+Package pdftex.def Info: tSNE_corr.png  used on input line 164.
+(pdftex.def)             Requested size: 286.62502pt x 473.95032pt.
+ [8
+
+ <./tSNE_corr.png>]
+<T_fit.png, id=58, 366.4089pt x 550.6974pt>
+File: T_fit.png Graphic file (type png)
+<use T_fit.png>
+Package pdftex.def Info: T_fit.png  used on input line 175.
+(pdftex.def)             Requested size: 256.48448pt x 385.48555pt.
+ [9
+
+ <./T_fit.png>]
+<DBSCAN_param.png, id=63, 574.5465pt x 570.933pt>
+File: DBSCAN_param.png Graphic file (type png)
+<use DBSCAN_param.png>
+Package pdftex.def Info: DBSCAN_param.png  used on input line 188.
+(pdftex.def)             Requested size: 402.1798pt x 399.65036pt.
+ [10
+
+ <./DBSCAN_param.png>]
+<nova_grupa.png, id=68, 462.528pt x 346.896pt>
+File: nova_grupa.png Graphic file (type png)
+<use nova_grupa.png>
+Package pdftex.def Info: nova_grupa.png  used on input line 201.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+<DBSCAN_class.png, id=69, 462.528pt x 346.896pt>
+File: DBSCAN_class.png Graphic file (type png)
+<use DBSCAN_class.png>
+Package pdftex.def Info: DBSCAN_class.png  used on input line 205.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./nova_grupa.png> <./DBSCAN_class.png>]
+<PCA.png, id=75, 470.50781pt x 338.76563pt>
+File: PCA.png Graphic file (type png)
+<use PCA.png>
+Package pdftex.def Info: PCA.png  used on input line 216.
+(pdftex.def)             Requested size: 376.40675pt x 271.01285pt.
+ [12
+
+
+ <./PCA.png>] (./porocilo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3061 strings out of 483107
+ 44655 string characters out of 5964630
+ 287027 words of memory out of 5000000
+ 18073 multiletter control sequences out of 15000+600000
+ 539028 words of font info for 47 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 30i,7n,34p,817b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb>
+Output written on porocilo.pdf (12 pages, 2483075 bytes).
+PDF statistics:
+ 116 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
